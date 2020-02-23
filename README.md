@@ -7,4 +7,4 @@ then turn on developer mode
 then click load unpacked
 then select the extension file
 
-DO NOT REPRODUCE WITHOUT PERMISSION FROM ME OR YEEHOW
+DO NOT REPRODUCE WITHOUT PERMISSION FROM ME OR YEEHOW.
