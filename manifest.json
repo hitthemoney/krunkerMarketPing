@@ -1,0 +1,28 @@
+{
+    "name": "Krunker Market Ping",
+    "short_name": "Market Ping",
+    "version": "1.0",
+    "description": "This allows you to see your ping on krunker market.",
+    "permissions": [
+        "activeTabs",
+        "tabs",
+        "https://krunker.io/*"],
+    "author": "hitthemoney and yeehow",
+      "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+          "16": "images/icon-16.png",
+          "32": "images/icon-32.png",
+          "48": "images/icon-48.png",
+          "128": "images/icon-128.png"
+        },
+        "default_title": "Krunker Market Ping"
+      },
+      "icons": {
+        "16": "images/icon-16.png",
+        "32": "images/icon-32.png",
+        "48": "images/icon-48.png",
+        "128": "images/icon-128.png"
+      },
+    "manifest_version": 2
+  }
