@@ -1,16 +1,16 @@
 # krunkerMarketPing
-Click, clone or download. 
+1. Click, clone or download. 
 
-Then, download as a zip. 
+2. Then, download as a zip. 
 
-Extract the zip. 
+3. Extract the zip. 
 
-Then, go to your browser's extensions page.
+4. Then, go to your browser's extensions page.
 
-Then, turn on developer mode.
+5. Then, turn on developer mode.
 
-Then click load unpacked. 
+6. Then click load unpacked. 
 
-Then select the extension file. 
+7. Then select the extension file. 
 
 DO NOT REPRODUCE WITHOUT PERMISSION FROM ME OR YEEHOW.
