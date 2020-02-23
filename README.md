@@ -12,5 +12,3 @@
 6. Then click load unpacked. 
 
 7. Then select the extension file. 
-
-DO NOT REPRODUCE WITHOUT PERMISSION FROM ME OR YEEHOW.
