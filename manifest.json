@@ -4,7 +4,6 @@
     "version": "1.0",
     "description": "This allows you to see your ping on krunker market.",
     "permissions": [
-        "activeTabs",
         "tabs",
         "https://krunker.io/*"],
     "author": "hitthemoney and yeehow",
