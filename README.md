@@ -17,6 +17,4 @@
 
 9. Then click on the extension icon, and your market ping will be displayed on a pop-up.
 
-As of now I do not think it works on Chrome OS
-
 Original Website: https://yee.how/market-ping/
