@@ -11,7 +11,7 @@
 
 6. Then click load unpacked. 
 
-7. Then select the extension file. 
+7. Then select the extension file (krunkerMarketPing-master). 
 
 8. Then close the extensions page.
 
