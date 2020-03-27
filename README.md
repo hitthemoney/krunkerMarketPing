@@ -20,3 +20,5 @@
 10. If you do not want your ping to show on the bottom of your screen delete all of the contents inside inject.js, which can be found inside the js folder.
 
 Original Website: https://yee.how/market-ping/
+
+Due to updated websockets this extension no longer works. I am trying to fix it.
