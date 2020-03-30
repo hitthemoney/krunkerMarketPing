@@ -60,7 +60,7 @@ this.socket.onmessage = async function(event) {
 	if (data[0] == 'pi') {
 		pong();
 	} else if (data[0] == 'pir') {
-		const ping = data[1][0];
+		const ping = data[1];
 		displayPing(ping);
 	}
 };

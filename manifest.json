@@ -7,18 +7,18 @@
     "browser_action": {
       "default_popup": "popup.html",
       "default_icon": {
-        "16": "./images/Icon16.png",
-        "32": "./images/Icon32.png",
-        "48": "./images/Icon48.png",
-        "128": "./images/Icon128.png"
+        "16": "./Images/icon16.png",
+        "32": "./Images/icon32.png",
+        "48": "./Images/icon48.png",
+        "128": "./Images/icon128.png"
       },
       "default_title": "Krunker Market Ping"
     },
     "icons": {
-      "16": "./images/Icon16.png",
-      "32": "./images/Icon32.png",
-      "48": "./images/Icon48.png",
-      "128": "./images/Icon128.png"
+      "16": "./Images/icon16.png",
+      "32": "./Images/icon32.png",
+      "48": "./Images/icon48.png",
+      "128": "./Images/icon128.png"
     },
     "content_scripts": [
       {
