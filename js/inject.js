@@ -1,4 +1,4 @@
-// this is the code which will be injected into a given page...
+// This code will be injected into krunker market and will show your ping on the aHolder (ad holder)
 
 (function() {
     
