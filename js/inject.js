@@ -41,7 +41,6 @@ function pong() {
 
 function displayPing(value) {
 	document.getElementById('aHolder').textContent = `Ping: ${value}ms`;
-	add(value);
 }
     
 })();
