@@ -17,6 +17,6 @@
 
 9. Then click on the extension icon, and your market ping will be displayed on a pop-up. (It is also displayed on the adbar on krunker market, so disable styles that remove it)
 
-10. If you do not want your ping to show on the bottom of your screen delete all of the contents inside inject.js, which can be found inside the js folder.
+10. If you do not want your ping to show on the bottom of your screen delete all of the contents inside inject.js, which can be found inside the js folder. (you must extract the zip if you want to do this)
 
 Original Website: https://yee.how/market-ping/
