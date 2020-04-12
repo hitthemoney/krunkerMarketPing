@@ -1,9 +1,9 @@
 # krunkerMarketPing
-1. Click, clone or download. 
+1. Download the zip here: https://github.com/hitthemoney/krunkerMarketPing/files/4467343/KrunkerMarketPingV1.2.zip
 
-2. Then, download as a zip. 
+2. No need to extract the zip.
 
-3. Extract the zip. 
+3. Open up the browser you want the extension installed on
 
 4. Then, go to your browser's extensions page.
 
@@ -15,7 +15,7 @@
 
 8. Then close the extensions page.
 
-9. Then click on the extension icon, and your market ping will be displayed on a pop-up.
+9. Then click on the extension icon, and your market ping will be displayed on a pop-up. (It is also displayed on the adbar on krunker market, so disable styles that remove it)
 
 10. If you do not want your ping to show on the bottom of your screen delete all of the contents inside inject.js, which can be found inside the js folder.
 
