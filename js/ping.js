@@ -4,7 +4,7 @@ var chart = new Chart(ctx, {
 	type: 'line',
 
 	data: {
-		labels: [ 'Ping', 'Ping', 'Ping', 'Ping', 'Ping', 'Ping' ], //ignore that lmao :)
+		labels: [ 'Ping', 'Ping', 'Ping', 'Ping', 'Ping', 'Ping' ], //ignore that lmao
 		datasets: [
 			{
 				backgroundColor: 'rgb(25, 25, 25)',
