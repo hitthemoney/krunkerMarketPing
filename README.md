@@ -1,7 +1,7 @@
 # krunkerMarketPing
-1. Download the zip here: https://github.com/hitthemoney/krunkerMarketPing/files/4467343/KrunkerMarketPingV1.2.zip
+1. Download the repos zip.
 
-2. No need to extract the zip.
+2. Extract the zip.
 
 3. Open up the browser you want the extension installed on
 
