@@ -27,7 +27,6 @@
 				hasRan = true;
 				this.addEventListener("message", (event) => {
 					const packet = msgpack.decode(new Uint8Array(event.data));
-					console.log(packet)
 					switch(packet[0]) {
 						case "pir": 
 							displayPing(packet[1])
