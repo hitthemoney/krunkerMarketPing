@@ -20,3 +20,6 @@
 10. If you do not want your ping to show on the bottom of your screen delete all of the contents inside inject.js, which can be found inside the js folder. (you must extract the zip if you want to do this)
 
 Original Website: https://yee.how/market-ping/
+
+# Working on
+1. Fixing the popup
